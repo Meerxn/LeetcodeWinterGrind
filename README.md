@@ -6,3 +6,7 @@ This is all my Leetcode grind for the winter in an organized repository
 
 # How
 - Doing 4 to 5 questions per day of different difficulty levels
+
+
+# Tips and Tricks:
+Neetcode (How to become better at interviews): https://www.youtube.com/watch?v=SVvr3ZjtjI8
